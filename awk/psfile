@@ -1,0 +1,281 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.1  0.2  33880  2952 ?        Ss   Mar12   0:06 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    Mar12   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Mar12   0:00 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Mar12   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    Mar12   0:03 [rcu_sched]
+root         8  0.1  0.0      0     0 ?        S    Mar12   0:04 [rcuos/0]
+root         9  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/1]
+root        10  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/2]
+root        11  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/3]
+root        12  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/4]
+root        13  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/5]
+root        14  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/6]
+root        15  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/7]
+root        16  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/8]
+root        17  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/9]
+root        18  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/10]
+root        19  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/11]
+root        20  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/12]
+root        21  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/13]
+root        22  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/14]
+root        23  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/15]
+root        24  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/16]
+root        25  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/17]
+root        26  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/18]
+root        27  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/19]
+root        28  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/20]
+root        29  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/21]
+root        30  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/22]
+root        31  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/23]
+root        32  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/24]
+root        33  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/25]
+root        34  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/26]
+root        35  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/27]
+root        36  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/28]
+root        37  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/29]
+root        38  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/30]
+root        39  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/31]
+root        40  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/32]
+root        41  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/33]
+root        42  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/34]
+root        43  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/35]
+root        44  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/36]
+root        45  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/37]
+root        46  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/38]
+root        47  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/39]
+root        48  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/40]
+root        49  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/41]
+root        50  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/42]
+root        51  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/43]
+root        52  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/44]
+root        53  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/45]
+root        54  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/46]
+root        55  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/47]
+root        56  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/48]
+root        57  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/49]
+root        58  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/50]
+root        59  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/51]
+root        60  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/52]
+root        61  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/53]
+root        62  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/54]
+root        63  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/55]
+root        64  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/56]
+root        65  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/57]
+root        66  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/58]
+root        67  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/59]
+root        68  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/60]
+root        69  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/61]
+root        70  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/62]
+root        71  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuos/63]
+root        72  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcu_bh]
+root        73  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/0]
+root        74  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/1]
+root        75  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/2]
+root        76  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/3]
+root        77  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/4]
+root        78  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/5]
+root        79  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/6]
+root        80  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/7]
+root        81  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/8]
+root        82  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/9]
+root        83  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/10]
+root        84  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/11]
+root        85  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/12]
+root        86  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/13]
+root        87  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/14]
+root        88  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/15]
+root        89  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/16]
+root        90  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/17]
+root        91  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/18]
+root        92  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/19]
+root        93  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/20]
+root        94  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/21]
+root        95  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/22]
+root        96  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/23]
+root        97  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/24]
+root        98  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/25]
+root        99  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/26]
+root       100  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/27]
+root       101  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/28]
+root       102  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/29]
+root       103  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/30]
+root       104  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/31]
+root       105  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/32]
+root       106  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/33]
+root       107  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/34]
+root       108  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/35]
+root       109  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/36]
+root       110  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/37]
+root       111  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/38]
+root       112  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/39]
+root       113  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/40]
+root       114  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/41]
+root       115  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/42]
+root       116  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/43]
+root       117  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/44]
+root       118  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/45]
+root       119  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/46]
+root       120  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/47]
+root       121  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/48]
+root       122  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/49]
+root       123  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/50]
+root       124  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/51]
+root       125  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/52]
+root       126  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/53]
+root       127  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/54]
+root       128  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/55]
+root       129  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/56]
+root       130  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/57]
+root       131  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/58]
+root       132  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/59]
+root       133  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/60]
+root       134  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/61]
+root       135  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/62]
+root       136  0.0  0.0      0     0 ?        S    Mar12   0:00 [rcuob/63]
+root       137  0.0  0.0      0     0 ?        S    Mar12   0:00 [migration/0]
+root       138  0.4  0.0      0     0 ?        S    Mar12   0:16 [watchdog/0]
+root       139  0.0  0.0      0     0 ?        S<   Mar12   0:00 [khelper]
+root       140  0.0  0.0      0     0 ?        S    Mar12   0:00 [kdevtmpfs]
+root       141  0.0  0.0      0     0 ?        S<   Mar12   0:00 [netns]
+root       142  0.0  0.0      0     0 ?        S<   Mar12   0:00 [writeback]
+root       143  0.0  0.0      0     0 ?        S<   Mar12   0:00 [kintegrityd]
+root       144  0.0  0.0      0     0 ?        S<   Mar12   0:00 [bioset]
+root       145  0.0  0.0      0     0 ?        S<   Mar12   0:00 [kworker/u129:0]
+root       146  0.0  0.0      0     0 ?        S<   Mar12   0:00 [kblockd]
+root       147  0.0  0.0      0     0 ?        S<   Mar12   0:00 [ata_sff]
+root       148  0.0  0.0      0     0 ?        S    Mar12   0:00 [khubd]
+root       149  0.0  0.0      0     0 ?        S<   Mar12   0:00 [md]
+root       150  0.0  0.0      0     0 ?        S<   Mar12   0:00 [devfreq_wq]
+root       151  0.0  0.0      0     0 ?        S    Mar12   0:00 [kworker/0:1]
+root       153  0.0  0.0      0     0 ?        S    Mar12   0:00 [khungtaskd]
+root       154  0.0  0.0      0     0 ?        S    Mar12   0:00 [kswapd0]
+root       155  0.0  0.0      0     0 ?        SN   Mar12   0:00 [ksmd]
+root       156  0.0  0.0      0     0 ?        SN   Mar12   0:02 [khugepaged]
+root       157  0.0  0.0      0     0 ?        S    Mar12   0:00 [fsnotify_mark]
+root       158  0.0  0.0      0     0 ?        S    Mar12   0:00 [ecryptfs-kthrea]
+root       159  0.0  0.0      0     0 ?        S<   Mar12   0:00 [crypto]
+root       171  0.0  0.0      0     0 ?        S<   Mar12   0:00 [kthrotld]
+root       173  0.0  0.0      0     0 ?        S    Mar12   0:00 [scsi_eh_0]
+root       174  0.0  0.0      0     0 ?        S    Mar12   0:00 [scsi_eh_1]
+root       195  0.0  0.0      0     0 ?        S<   Mar12   0:00 [deferwq]
+root       196  0.0  0.0      0     0 ?        S<   Mar12   0:00 [charger_manager]
+root       197  0.2  0.0      0     0 ?        S    Mar12   0:08 [kworker/0:2]
+root       249  0.0  0.0      0     0 ?        S<   Mar12   0:00 [mpt_poll_0]
+root       250  0.0  0.0      0     0 ?        S<   Mar12   0:00 [mpt/0]
+root       251  0.0  0.0      0     0 ?        S<   Mar12   0:00 [kpsmoused]
+root       252  0.0  0.0      0     0 ?        S    Mar12   0:00 [scsi_eh_2]
+root       262  0.1  0.0      0     0 ?        S    Mar12   0:06 [jbd2/sda1-8]
+root       263  0.0  0.0      0     0 ?        S<   Mar12   0:00 [ext4-rsv-conver]
+root       385  0.0  0.0  19488   616 ?        S    Mar12   0:00 upstart-udev-bridge --daemon
+root       391  0.0  0.1  51736  1048 ?        Ss   Mar12   0:00 /lib/systemd/systemd-udevd --daemon
+root       446  0.0  0.0      0     0 ?        S<   Mar12   0:00 [ttm_swap]
+root       628  0.0  0.0  15404   528 ?        S    Mar12   0:00 upstart-socket-bridge --daemon
+message+   692  0.0  0.2  40296  2316 ?        Ss   Mar12   0:01 dbus-daemon --system --fork
+root       746  0.0  0.2 330244  2928 ?        Ssl  Mar12   0:00 /usr/sbin/ModemManager
+root       767  0.0  0.1  19304  1172 ?        Ss   Mar12   0:00 /usr/sbin/bluetoothd
+syslog     769  0.0  0.1 255852  1232 ?        Ssl  Mar12   0:01 rsyslogd
+root       788  0.0  0.1  43524  1732 ?        Ss   Mar12   0:00 /lib/systemd/systemd-logind
+root       837  0.0  0.0      0     0 ?        S<   Mar12   0:00 [krfcommd]
+root       839  0.0  0.5 344896  5208 ?        Ssl  Mar12   0:01 NetworkManager
+root       867  0.0  0.4 281268  4908 ?        Sl   Mar12   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root       896  0.0  0.0  15420   648 ?        S    Mar12   0:00 upstart-file-bridge --daemon
+avahi      903  0.0  0.1  32364  1444 ?        S    Mar12   0:01 avahi-daemon: running [ubuntu.local]
+avahi      909  0.0  0.0  32232   220 ?        S    Mar12   0:00 avahi-daemon: chroot helper
+root       951  0.0  0.2  10240  2548 ?        S    Mar12   0:00 /sbin/dhclient -d -sf /usr/lib/NetworkManager/nm-dhcp-client.action -pf /run/sendsigs.omit.d/network-manager.dhclient-eth0.pid -lf /var/lib/NetworkManager/dhclient-cf8b4465-fe06-47a3-9c4e-0b664a693f9a-eth0.lease -cf /var/lib/NetworkManager/dhclient-eth0.conf eth0
+root       979  0.0  0.0  20024   928 tty4     Ss+  Mar12   0:00 /sbin/getty -8 38400 tty4
+root       984  0.0  0.0  20024   916 tty5     Ss+  Mar12   0:00 /sbin/getty -8 38400 tty5
+root       991  0.0  0.0  20024   924 tty2     Ss+  Mar12   0:00 /sbin/getty -8 38400 tty2
+root       992  0.0  0.0  20024   916 tty3     Ss+  Mar12   0:00 /sbin/getty -8 38400 tty3
+root       995  0.0  0.0  20024   928 tty6     Ss+  Mar12   0:00 /sbin/getty -8 38400 tty6
+root      1043  0.0  0.1  23664  1028 ?        Ss   Mar12   0:00 cron
+kernoops  1056  0.0  0.1  37160  1216 ?        Ss   Mar12   0:00 /usr/sbin/kerneloops
+nobody    1059  0.0  0.1  35232  1476 ?        S    Mar12   0:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/run/sendsigs.omit.d/network-manager.dnsmasq.pid --listen-address=127.0.1.1 --conf-file=/var/run/NetworkManager/dnsmasq.conf --cache-size=0 --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      1093  0.0  0.3 351620  3624 ?        SLsl Mar12   0:00 lightdm
+root      1101  0.0  0.0   4380   692 ?        Ss   Mar12   0:00 acpid -c /etc/acpi/events -s /var/run/acpid.socket
+whoopsie  1108  0.0  0.5 369500  5124 ?        Ssl  Mar12   0:02 whoopsie
+root      1157  1.0  4.1 292096 41648 tty7     Ss+  Mar12   0:34 /usr/bin/X -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1167  0.0  0.4 287480  4232 ?        Sl   Mar12   0:01 /usr/lib/accountsservice/accounts-daemon
+root      1178  0.0  0.3  75360  3372 ?        Ss   Mar12   0:00 /usr/sbin/cups-browsed
+root      1202  0.0  0.0  20024   912 tty1     Ss+  Mar12   0:00 /sbin/getty -8 38400 tty1
+root      1434  0.0  0.0      0     0 ?        S    Mar12   0:00 [kauditd]
+root      1444  0.0  0.0 189016   616 ?        Ssl  Mar12   0:00 /usr/sbin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+root      1471  0.5  0.4  91764  4396 ?        S    Mar12   0:18 /usr/sbin/vmtoolsd
+root      1570  0.0  0.4 239392  4448 ?        Sl   Mar12   0:00 /usr/lib/upower/upowerd
+rtkit     1621  0.4  0.1 168924  1300 ?        SNl  Mar12   0:16 /usr/lib/rtkit/rtkit-daemon
+colord    1874  0.0  0.5 301488  5488 ?        Sl   Mar12   0:00 /usr/lib/colord/colord
+root      1916  0.0  0.3 170464  3756 ?        Sl   Mar12   0:00 lightdm --session-child 12 21
+rishabh+  1998  0.0  0.4 297024  4196 ?        Sl   Mar12   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+rishabh+  2014  0.0  0.2  40204  2556 ?        Ss   Mar12   0:02 init --user
+rishabh+  2085  0.0  0.0  10628   316 ?        Ss   Mar12   0:00 ssh-agent -s
+rishabh+  2089  0.0  0.2  41072  2576 ?        Ss   Mar12   0:01 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-WGmX3T4wwl
+rishabh+  2097  0.0  0.1  22312  1172 ?        Ss   Mar12   0:00 upstart-event-bridge
+rishabh+  2101  0.0  0.4  78212  4636 ?        Ss   Mar12   0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+rishabh+  2102  0.3  0.4 361596  4160 ?        Ssl  Mar12   0:10 /usr/bin/ibus-daemon --daemonize --xim
+rishabh+  2111  0.1  1.4 738380 15080 ?        Ssl  Mar12   0:03 /usr/lib/unity-settings-daemon/unity-settings-daemon
+rishabh+  2116  0.0  0.3 337604  3100 ?        Ssl  Mar12   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+rishabh+  2117  0.0  1.0 788608 10984 ?        Ssl  Mar12   0:02 gnome-session --session=ubuntu
+rishabh+  2121  0.0  0.3 196652  3180 ?        Sl   Mar12   0:00 /usr/lib/gvfs/gvfsd
+rishabh+  2125  0.0  1.9 643944 19332 ?        Ssl  Mar12   0:02 /usr/lib/x86_64-linux-gnu/hud/hud-service
+rishabh+  2129  0.0  0.2  39388  2092 ?        S    Mar12   0:00 /bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+rishabh+  2133  0.0  0.3 345676  3112 ?        Sl   Mar12   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+rishabh+  2142  0.0  0.3 280892  3468 ?        Sl   Mar12   0:00 /usr/lib/ibus/ibus-dconf
+rishabh+  2144  0.0  1.5 495504 15600 ?        Ssl  Mar12   0:01 /usr/lib/unity/unity-panel-service
+rishabh+  2145  0.0  1.4 478648 14376 ?        Sl   Mar12   0:02 /usr/lib/ibus/ibus-ui-gtk3
+rishabh+  2148  0.0  0.3 124924  3296 ?        Sl   Mar12   0:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+rishabh+  2149  0.0  0.7 386848  7368 ?        Sl   Mar12   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+rishabh+  2158  0.0  0.0  30792   928 ?        S    Mar12   0:00 upstart-file-bridge --daemon --user
+rishabh+  2162  0.0  0.0  22320   636 ?        S    Mar12   0:00 upstart-dbus-bridge --daemon --system --user --bus-name system
+rishabh+  2163  0.0  0.0  22320   644 ?        S    Mar12   0:01 upstart-dbus-bridge --daemon --session --user --bus-name session
+rishabh+  2172  0.0  1.1 548408 11916 ?        Sl   Mar12   0:02 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+rishabh+  2195  0.1  0.3 205164  3584 ?        Sl   Mar12   0:03 /usr/lib/ibus/ibus-engine-simple
+rishabh+  2199  0.0  0.2 335096  2928 ?        Ssl  Mar12   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+rishabh+  2204  0.0  0.2 263652  2880 ?        Ssl  Mar12   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+rishabh+  2208  0.0  0.3 278464  3300 ?        Ssl  Mar12   0:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+rishabh+  2209  0.0  1.0 451420 11100 ?        Sl   Mar12   0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard-service --use-gtk
+rishabh+  2219  0.0  1.1 769216 11164 ?        Ssl  Mar12   0:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+rishabh+  2220  0.0  0.5 479272  5480 ?        Ssl  Mar12   0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+rishabh+  2224  0.0  1.3 520488 13692 ?        Ssl  Mar12   0:03 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+rishabh+  2227  0.0  0.5 631596  5928 ?        Ssl  Mar12   0:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+rishabh+  2234  0.0  0.7 360488  7104 ?        Ssl  Mar12   0:02 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+rishabh+  2245  0.0  1.0 480956 10744 ?        Sl   Mar12   0:00 /usr/lib/evolution/evolution-source-registry
+rishabh+  2266  0.0  0.5 373632  5108 ?        Sl   Mar12   0:00 /usr/bin/pulseaudio --start --log-target=syslog
+rishabh+  2279  0.0  1.0 340444 10196 ?        Sl   Mar12   0:01 /usr/lib/x86_64-linux-gnu/notify-osd
+rishabh+  2304  0.0  0.2 178320  2748 ?        Sl   Mar12   0:00 /usr/lib/dconf/dconf-service
+rishabh+  2346  0.0  4.3 803260 44004 ?        Sl   Mar12   0:01 /usr/lib/evolution/evolution-calendar-factory
+rishabh+  2356  0.9  7.8 1169492 79508 ?       Sl   Mar12   0:31 compiz
+rishabh+  2363  0.0  1.1 331640 11520 ?        Sl   Mar12   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+rishabh+  2366  0.0  0.9 403228  9348 ?        Sl   Mar12   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+rishabh+  2370  0.3  3.1 895380 32028 ?        Sl   Mar12   0:10 nautilus -n
+rishabh+  2372  0.0  1.8 591120 19080 ?        Sl   Mar12   0:00 nm-applet
+rishabh+  2377  0.4  1.4 313640 14772 ?        Sl   Mar12   0:14 /usr/lib/vmware-tools/sbin64/vmtoolsd -n vmusr --blockFd 3
+rishabh+  2395  0.0  0.6 298840  6844 ?        Sl   Mar12   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      2401  0.0  0.4 371404  5000 ?        Sl   Mar12   0:00 /usr/lib/udisks2/udisksd --no-debug
+rishabh+  2411  0.0  0.2 200288  2760 ?        Sl   Mar12   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+rishabh+  2416  0.0  0.3 285972  3380 ?        Sl   Mar12   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+rishabh+  2423  0.0  0.3 212452  3324 ?        Sl   Mar12   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+rishabh+  2444  0.0  0.3  58032  3580 ?        S    Mar12   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+rishabh+  2471  0.0  0.3 270388  3036 ?        Sl   Mar12   0:00 /usr/lib/gvfs/gvfsd-burn --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+rishabh+  2487  0.0  0.3 433152  3588 ?        Sl   Mar12   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/1
+rishabh+  2518  0.0  1.1 455048 12116 ?        Sl   Mar12   0:00 telepathy-indicator
+rishabh+  2525  0.0  0.9 322352  9184 ?        Sl   Mar12   0:00 /usr/lib/telepathy/mission-control-5
+rishabh+  2533  0.0  0.8 524684  9084 ?        Sl   Mar12   0:00 zeitgeist-datahub
+rishabh+  2541  0.0  0.6 348880  6680 ?        Sl   Mar12   0:00 /usr/bin/zeitgeist-daemon
+rishabh+  2553  0.0  0.9 234604  9096 ?        Sl   Mar12   0:01 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+rishabh+  2566  0.0  0.0  11424   624 ?        S    Mar12   0:00 /bin/cat
+root      2633  0.0  0.0      0     0 ?        S<   Mar12   0:00 [kworker/u129:1]
+rishabh+  2635  0.0  1.2 498084 12884 ?        Sl   Mar12   0:01 update-notifier
+rishabh+  2686  0.0  0.4 459832  4264 ?        Sl   Mar12   0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+rishabh+  2703  0.4  1.8 575420 18340 ?        Sl   Mar12   0:14 gnome-terminal
+rishabh+  2709  0.0  0.0  14832   804 ?        S    Mar12   0:00 gnome-pty-helper
+rishabh+  2710  0.0  0.4  27360  4448 pts/1    Ss   Mar12   0:01 bash
+root      3176  0.0  0.3  76884  3816 ?        Ss   Mar12   0:00 /usr/sbin/cupsd -f
+lp        3180  0.0  0.1  63164  1996 ?        S    Mar12   0:00 /usr/lib/cups/notifier/dbus dbus:// 
+root      3215  0.0  0.1  36760  1752 ?        Ss   Mar12   0:00 tpvmlpd2
+rishabh+  3394  0.4  2.0 126868 20268 ?        S    Mar12   0:05 /usr/bin/python /usr/lib/ubuntu-sso-client/ubuntu-sso-login
+root      3408  0.0  0.0      0     0 ?        S    Mar12   0:00 [kworker/u128:3]
+rishabh+  3409  0.0  0.0   4456   660 ?        Ss   Mar12   0:00 /bin/sh -e /proc/self/fd/9
+rishabh+  3414  0.4  1.4 401976 14708 ?        Sl   Mar12   0:05 /usr/lib/update-notifier/system-crash-notification
+root      3503  0.0  0.0      0     0 ?        S    Mar12   0:00 [kworker/u128:1]
+root      3540  0.0  0.0      0     0 ?        S    00:00   0:00 [kworker/u128:0]
+rishabh+  3552  0.0  0.1  22652  1312 pts/1    R+   00:03   0:00 ps -aux

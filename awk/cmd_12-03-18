@@ -1,0 +1,27 @@
+  645  man vi > viman
+  646  ls
+  647  less viman
+  648  awk '/vi/ {count ++; print count}'
+  649  awk '/vi/ {count ++; print count}' viman
+  650  awk '/vi/ {count ++;} END{print count}' viman
+  651  awk {count=count+NR;} END{print count}' viman
+  652  awk '{count=count+NR;} END{print count}' viman
+  653  wc -l viman
+  654  wc -w viman
+  655  wc viman
+  656  awk '{cnt=cnt+NR;} END{print cnt}' viman
+  657  awk '{print NR}' viman
+  658  awk 'BEGIN{print NR}' viman
+  659  awk 'END{print NR}' viman
+  660  wc viman
+  661  awk '{cnt=cnt+NF;} END{print cnt}' viman
+  662  awk '{cnt=cnt+lenght($0);} END{print cnt}' viman
+  663  awk '{cnt=cnt+length($0);} END{print cnt}' viman
+  664  awk '{cnt=cnt+length($0)+1;} END{print cnt}' viman
+  665  awk '{cnt=cnt+length($0);} END{print cnt+NR}' viman
+  666  awk '{cnt=cnt+length($0)+2;} END{print cnt}' viman
+  667  awk '{cnt=cnt+length($0)+1;} END{print cnt}' viman
+  668  awk 'BEGIN {wrd=0;cnt=0;} {wrd=wrd+NF; cnt=cnt+length($0)+1;} END{print "Line=",NR, "word=",wrd,"Character=",cnt;}' viman
+  669  history
+  670  cd awk/ > cmd_12-03-18
+  671  history | tail -27 > cmd_12-03-18
