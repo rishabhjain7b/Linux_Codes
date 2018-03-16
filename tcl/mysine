@@ -1,0 +1,36 @@
+#! /usr/bin/tclsh
+
+# This code is for making my own sine function
+
+if {$argc==0} {
+	puts "ERROR: Give an Argument"
+} else {
+	set x [expr $argv * 0.0174532925]
+}
+
+# Code for factorial
+proc fact {num} {
+set product 1
+for {set i 1} {$i <= $num} {incr i} {
+	set product [expr $product * $i]
+}
+	return $product
+}
+
+# Code for sine function
+set sum 0
+set flag 0
+for {set i 1} {$i <= 7} {incr i 2} {
+	set factorial [fact $i]
+	if {$flag == 0} {
+		set sum [expr $sum + [expr [expr $x ** $i] / $factorial]]
+		set flag 1
+	} elseif {$flag ==1} {
+		set sum [expr $sum - [expr [expr $x ** $i] / $factorial]]
+                set flag 0
+	}
+}
+
+puts "Answer = $sum"
+
+

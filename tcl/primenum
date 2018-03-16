@@ -1,9 +1,12 @@
 #! /usr/bin/tclsh
 
 # This code is for determining if the number is prime or not
-
-for {set i 1} {$i <= 1000000} {incr i} {
+set count 2
+for {set i 7} {$i <= 100} {incr i} {
 	if {[expr [expr $i + 1 ] % 6 ] == 0 || [expr [expr $i - 1] % 6] == 0} {
-		puts "$i"
+		if {[expr $i % 5] != 0} {
+			puts "$i"
+			incr count}
 }	
-} 
+}
+puts "count = $count" 
