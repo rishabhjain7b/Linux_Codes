@@ -1,0 +1,17 @@
+#! /usr/bin/tclsh
+
+# This code is for determining if the number is prime or not
+for {set i 5} {$i <= 100} {incr i} {
+	if {[expr [expr $i + 1 ] % 6 ] == 0 || [expr [expr $i - 1] % 6] == 0} {
+		set ar($i) $i
+		set r [expr sqrt($i)]
+		foreach k [array names ar] {
+			if {$r >= $ar($k) && [expr $i % $ar($k) ] == 0} {
+					unset ar($i)
+					break }
+			}
+		}
+}	
+foreach j [array names ar] {
+	puts " $j ||| $ar($j)"}
+puts "count = [ expr [array size ar] + 2] " 
